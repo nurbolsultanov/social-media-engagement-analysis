@@ -5,6 +5,11 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![SQL](https://img.shields.io/badge/SQL-SQLite-lightgrey)
+
+---
+
 ## Project Overview
 
 Analysis of 10,000+ social media posts across 5 platforms to identify engagement drivers, top-performing content types, and campaign effectiveness. Built to simulate a real-world fan engagement analytics workflow.
@@ -37,6 +42,12 @@ Analysis of 10,000+ social media posts across 5 platforms to identify engagement
 | Top content type | Story & Image (10.06%) |
 | Top campaign | NBA_Playoffs (10.10%) |
 | Best combination | Instagram + Video (10.50%) |
+
+---
+
+## Analysis Preview
+
+![Engagement Analysis](data/engagement_analysis.png)
 
 ---
 
